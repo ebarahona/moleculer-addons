@@ -49,6 +49,6 @@
     "node": ">= 6.x.x"
   },
   "dependencies": {
-    "elasticsearch": "13.3.1"
+    "elasticsearch": "15.0.0"
   }
 }

@@ -49,6 +49,6 @@
     "node": ">= 6.x.x"
   },
   "dependencies": {
-    "bee-queue": "1.1.0"
+    "bee-queue": "1.4.2"
   }
 }

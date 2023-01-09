@@ -50,7 +50,7 @@
     "node": ">= 6.x.x"
   },
   "dependencies": {
-    "email-templates": "2.7.1",
+    "email-templates": "3.0.0",
     "lodash": "4.17.4",
     "nodemailer": "4.3.1",
     "nodemailer-html-to-text": "2.1.0"
